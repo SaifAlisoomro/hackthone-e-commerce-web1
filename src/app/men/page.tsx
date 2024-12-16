@@ -35,7 +35,7 @@ function Cart() {
               <div className="flex flex-col md:flex-row md:justify-between w-full gap-4">
                 <div>
                   <span className="font-medium text-sm">Nike Dri-FIT ADV TechKnit Ultra</span>
-                  <div className="text-xs text-gray-500">Men's Short-Sleeve Running Top</div>
+                  <div className="text-xs text-gray-500">Men`s Short-Sleeve Running Top</div>
                   <div className="text-xs text-gray-500">Ashen Slate/Cobalt Bliss</div>
                   <div className="flex gap-4 text-xs text-gray-500 mt-2">
                     <span>Size L</span>
@@ -56,7 +56,7 @@ function Cart() {
               <div className="flex flex-col md:flex-row md:justify-between w-full gap-4">
                 <div>
                   <span className="font-medium text-sm">Nike Air Max 97 SE</span>
-                  <div className="text-xs text-gray-500">Men's Shoes</div>
+                  <div className="text-xs text-gray-500">Men`s Shoes</div>
                   <div className="text-xs text-gray-500">Flat Pewter/Light Bone/Black/White</div>
                   <div className="flex gap-4 text-xs text-gray-500 mt-2">
                     <span>Size 8</span>

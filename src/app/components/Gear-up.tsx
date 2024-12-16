@@ -25,7 +25,7 @@ function Gear() {
               <div className="font-medium text-[12px]">
                 Nike Dri-FIT ADV TechKnit Ultra
                 <div className="font-normal text-[12px] text-[#757575] mt-1">
-                  Men's Short-Sleeve Running Top
+                  Men`s Short-Sleeve Running Top
                 </div>
               </div>
               <div className="font-medium text-[12px]">₹ 3,895</div>
@@ -39,7 +39,7 @@ function Gear() {
               <div className="font-medium text-[12px]">
                 Nike Dri-FIT Challenger
                 <div className="font-normal text-[10px] text-[#757575] mt-1">
-                  Men's 18cm (approx.) 2-in-1 Versatile Shorts
+                  Men`s 18cm (approx.) 2-in-1 Versatile Shorts
                 </div>
               </div>
               <div className="font-medium text-[12px]">₹ 2,495</div>
@@ -79,7 +79,7 @@ function Gear() {
               <div className="font-medium text-[12px]">
                 Nike Fast
                 <div className="font-normal text-[12px] text-[#757575] mt-1">
-                  Women's Mid-Rise 7/8 Running Leggings with Pockets
+                  Women`s Mid-Rise 7/8 Running Leggings with Pockets
                 </div>
               </div>
               <div className="font-medium text-[12px]">₹ 3,795</div>

@@ -164,10 +164,10 @@ function Allproducts() {
                     Just In
                   </div>
                   <div className="font-medium text-[15px]">
-                    Nike Air Force 1 Mid '07
+                    Nike Air Force 1 Mid `07
                   </div>
                   <div className="font-normal text-[15px] text-[#757575]">
-                    Men's Shoes
+                    Men`s Shoes
                   </div>
                   <div className="font-normal text-[15px] text-[#757575]">
                     1 Colour
@@ -194,7 +194,7 @@ function Allproducts() {
                     Nike Court Vision Low Next Nature
                   </div>
                   <div className="font-normal text-[15px] text-[#757575]">
-                    Men's Shoes
+                    Men`s Shoes
                   </div>
                   <div className="font-normal text-[15px] text-[#757575]">
                     1 Colour
@@ -250,7 +250,7 @@ function Allproducts() {
                     Nike Air Force 1 React
                   </div>
                   <div className="font-normal text-[15px] text-[#757575]">
-                    Men's Shoes
+                    Men`s Shoes
                   </div>
                   <div className="font-normal text-[15px] text-[#757575]">
                     1 Colour
@@ -523,7 +523,7 @@ function Allproducts() {
                     Just In
                   </div>
                   <div className="font-medium text-[15px]">
-                    Nike Air Force 1 '07
+                    Nike Air Force 1 `07
                   </div>
                   <div className="font-normal text-[15px] text-[#757575]">
                     Women`s Shoe
@@ -559,7 +559,7 @@ function Allproducts() {
                     1 Colour
                   </div>
                   <div className="font-medium text-[15px] ">
-                    Men's Tight-Fit Sleeveless Top
+                    Men`s Tight-Fit Sleeveless Top
                   </div>
                 </div>
               </div>
@@ -799,7 +799,7 @@ function Allproducts() {
                     Nike Dri-FIT Run Division Rise 365
                   </div>
                   <div className="font-normal text-[15px] text-[#757575]">
-                    Men's Running Tank
+                    Men`s Running Tank
                   </div>
                   <div className="font-normal text-[15px] text-[#757575]">
                     2 Colour
@@ -937,7 +937,7 @@ function Allproducts() {
                     Just In
                   </div>
                   <div className="font-medium text-[15px]">
-                    Nike Blazer Low '77 Jumbo
+                    Nike Blazer Low `77 Jumbo
                   </div>
                   <div className="font-normal text-[15px] text-[#757575]">
                     Women`s Shoes

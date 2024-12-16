@@ -51,7 +51,7 @@ function Find() {
 
       <div className="text-sm mt-6">
         <p>
-          <span className="font-medium underline">NIKE Member</span> can store multiple debit or credit cards in their profile for faster checkout. If you're not already a Member,{" "}
+          <span className="font-medium underline">NIKE Member</span> can store multiple debit or credit cards in their profile for faster checkout. If you`re not already a Member,{" "}
           <span className="underline">join</span> us today.
         </p>
         <div className="mt-5 flex items-center gap-3">

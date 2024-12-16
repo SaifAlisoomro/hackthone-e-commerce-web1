@@ -28,7 +28,7 @@ function Snkrs() {
          
           <p className="text-[14px] sm:text-[15px] text-gray-800 leading-relaxed">
             Turn style on its head with this crafted take on the Air Jordan 1
-            Mid. Its "inside out"-inspired construction, including unique
+            Mid. Its `inside out`-inspired construction, including unique
             layering and exposed foam accents, ups the ante on this timeless
             Jordan Brand silhouette. Details like the deco stitching on the
             Swoosh add coveted appeal, while the unexpected shading, rich

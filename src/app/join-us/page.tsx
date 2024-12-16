@@ -1,11 +1,12 @@
 import React from "react";
+import Image from "next/image";
 
 function LoginPage() {
   return (
     <div className="min-h-screen flex flex-col justify-center items-center bg-gray-100 px-4">
       <div className="w-full max-w-[380px] bg-white rounded-lg shadow-md p-6">
         <div className="flex justify-center mb-6">
-          <img src="/logo.png" alt="Nike Logo" className="w-12 h-12" />
+          <Image src="/logo.png" alt="Nike Logo" className="w-12 h-12" />
         </div>
 
         <h2 className="text-center text-lg font-semibold mb-4">
@@ -43,7 +44,7 @@ function LoginPage() {
           </div>
 
           <p className="text-xs text-gray-600 text-center">
-            By logging in, you agree to Nike's{" "}
+            By logging in, you agree to Nike`s{" "}
             <a href="#" className="text-blue-600 hover:underline">
               Privacy Policy
             </a>{" "}
