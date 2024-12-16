@@ -7,7 +7,7 @@ function Hero() {
     <div className="w-full max-w-[1340px] h-auto mx-auto relative wrapper">
     <div className="relative wrapper">
       <Image
-        src="/image.png"
+        src="/banner.png"
         alt="Example image"
         width={1300}
         height={977}

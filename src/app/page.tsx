@@ -1,14 +1,9 @@
-
 import Hero from "./components/Hero";
 import Hero1 from "./components/Hero1";
 import Featured from "./components/Featured";
 import Gear from "./components/Gear-up";
 import Miss from "./components/Miss";
 import Essential from "./components/Essential";
-import CheckoutForm from "./components/Checkoutform";
-
-
-
 
 export default function Home() {
   return (
@@ -19,8 +14,6 @@ export default function Home() {
       <Gear />
       <Miss />
       <Essential />
-     <CheckoutForm />
- 
     </div>
   );
 }

@@ -3,12 +3,11 @@ import React from 'react';
 const CheckoutForm = () => {
   return (
     <div className="max-w-5xl mx-auto mt-10 px-4">
-      {/* Title */}
+  
       <div className="text-2xl font-semibold mb-6 text-gray-800">
         How would you like to get your order?
       </div>
 
-      {/* Delivery Section */}
       <div className="border rounded-md p-4 mb-6">
         <label htmlFor="delivery" className="block mb-2 font-medium text-gray-700">
           Delivery Method
@@ -23,7 +22,7 @@ const CheckoutForm = () => {
         </select>
       </div>
 
-      {/* Address Section */}
+      
       <div className="border rounded-md p-4 mb-6">
         <div className="text-lg font-medium mb-4 text-gray-800">Enter your name and address</div>
         <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
@@ -66,7 +65,7 @@ const CheckoutForm = () => {
         </div>
       </div>
 
-      {/* Contact Section */}
+     
       <div className="border rounded-md p-4 mb-6">
         <div className="text-lg font-medium mb-4 text-gray-800">What`s your contact information?</div>
         <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
@@ -83,7 +82,7 @@ const CheckoutForm = () => {
         </div>
       </div>
 
-      {/* PAN Section */}
+     
       <div className="border rounded-md p-4 mb-6">
         <div className="text-lg font-medium mb-4 text-gray-800">What`s your PAN?</div>
         <input
@@ -96,7 +95,7 @@ const CheckoutForm = () => {
         </p>
       </div>
 
-      {/* Submit Button */}
+     
       <div className="flex justify-end">
         <button className="bg-blue-600 hover:bg-blue-700 text-white px-6 py-2 rounded-md font-medium">
           Continue

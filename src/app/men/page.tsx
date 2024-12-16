@@ -3,6 +3,8 @@ import Image from "next/image";
 import { FaRegHeart } from "react-icons/fa";
 import { RiDeleteBin5Line } from "react-icons/ri";
 import Button from "../components/button";
+import Link from "next/link";
+
 
 function Cart() {
   return (
@@ -17,7 +19,7 @@ function Cart() {
           <span className="font-medium text-sm">Free Delivery</span>
           <div className="mt-2 text-xs flex gap-2">
             <span>Applies to orders of ₹ 14,000.00 or more.</span>
-            <span className="font-medium underline cursor-pointer">View details</span>
+            <span className="font-medium underline cursor-pointer"> <Link href={"/checkout"}>View details</Link> </span>
           </div>
         </div>
 
@@ -98,7 +100,7 @@ function Cart() {
           </div>
         </div>
         <div className="text-center">
-          <Button btnText="Member Checkout" bgColor="bg-black text-white px-6 py-2" />
+  <Link href={"/checkout"}> <Button btnText="Member Checkout" bgColor="bg-black text-white px-6 py-2" /> </Link>
         </div>
       </div>
     </div>
